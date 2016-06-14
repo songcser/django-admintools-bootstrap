@@ -11,7 +11,6 @@ install_requires = [
     'versiontools>=1.8.2',
     'django-mediagenerator==1.11',
 ]
-
 setup(
     name='django-admintools-bootstrap',
     version=':versiontools:admintools_bootstrap:',
